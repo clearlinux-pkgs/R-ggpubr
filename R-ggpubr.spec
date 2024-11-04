@@ -7,7 +7,7 @@
 #
 Name     : R-ggpubr
 Version  : 0.6.0
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/ggpubr_0.6.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ggpubr_0.6.0.tar.gz
 Summary  : 'ggplot2' Based Publication Ready Plots
